@@ -1,0 +1,1 @@
+const segundaVariable = "Hola mundo desde el archivo index.js"
